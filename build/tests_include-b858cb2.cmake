@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Max Brenner/Documents/elen3009a project/2023-project-2108438-Brenner-2176006-Kienle/build/tests_tests-b858cb2.cmake")
+  include("C:/Users/Max Brenner/Documents/elen3009a project/2023-project-2108438-Brenner-2176006-Kienle/build/tests_tests-b858cb2.cmake")
+else()
+  add_test(tests_NOT_BUILT-b858cb2 tests_NOT_BUILT-b858cb2)
+endif()
